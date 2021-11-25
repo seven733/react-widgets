@@ -7,7 +7,6 @@
 * 尽量保证与原生组件(html standard)API一致性
 * 可提供一定的默认样式(尽量在createDefaultStyle中增加css)，但需保证被覆盖的灵活性
 * 至少提供snapshot test, 保证前后UI的向前兼容，不能兼容时需告知所有相关方
-* 提倡单元测试、每一个bug必须有测试对应以便自动回归(组件bug在git仓库提issue)
 
 ## Usage
 
