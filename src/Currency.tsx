@@ -4,47 +4,33 @@ import styled from 'styled-components'
 const StyledVar = styled.var`
   line-height: 1em;
   display:inline;
-  font-weight:600;  
+  font-weight: 600;
+
+  .symbol {
+    font-size: 1.17em;
+    margin-right: 0.2em;
+    font-weight:600;
+  }
+
+  .number {
+    font-size: 1.3em;
+  }
 `
 
-const Symb = styled.span`
-  font-size: 1.17em;
-  margin-right: 0.2em;
-  font-weight:600;
-`
-
-const Integer = styled.span`
-  font-size: 1.3em;
-  /* font-weight: bold; */
-`
-
-interface CurrencyProps extends HtmlHTMLAttributes<HTMLSpanElement> {
-  /**
-   * 货币值
-   * */
-  children: number
+export interface CurrencyProps extends HtmlHTMLAttributes<HTMLSpanElement> {
+  /** 货币值 */
+  num: number
 }
 
 /**
  * 数字以人民币形式展示
  * */
 export default function Currency(props: CurrencyProps) {
-  const { children, ...rest } = props
-  // const currency = children.toLocaleString('zh-CN',
-  //   { currency: 'CNY', style: 'currency', minimumFractionDigits: 2 })
-  //
-  // const [, symbol, integer, point, decimal] = currency.split(/(^[^0-9]|\.)/)
-  //
-  // return (
-  //   <StyledVar>
-  //     <Symb>{symbol}</Symb><Integer>{integer}</Integer>{point}{decimal}
-  //   </StyledVar>
-  // )
-
-  const list = children.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, '$1,').split('.')
+  const { num, ...rest } = props
+  const list = num.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, '$1,').split('.')
   return (
     <StyledVar {...rest}>
-      <Symb>¥</Symb><Integer>{list[0]}</Integer>.{list[1]}
+      <span className="symbol">¥</span><span className="number">{list[0]}.{list[1]}</span>
     </StyledVar>
   )
 }

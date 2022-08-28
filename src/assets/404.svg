@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 700 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+  <title>404</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+      <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+      <stop stop-color="#B4B8BF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="85.1278551%" x2="50%" y2="0%" id="linearGradient-2">
+      <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+      <stop stop-color="#B4B8BF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="85.1278551%" x2="50%" y2="0%" id="linearGradient-3">
+      <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+      <stop stop-color="#B4B8BF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="85.1278551%" x2="50%" y2="0%" id="linearGradient-4">
+      <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+      <stop stop-color="#B4B8BF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-5">
+      <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+      <stop stop-color="#B4B8BF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="100%" y1="49.2932735%" x2="0%" y2="49.3626431%" id="linearGradient-6">
+      <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+      <stop stop-color="#B4B8BF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="100%" y1="49.3570043%" x2="0%" y2="49.4201183%" id="linearGradient-7">
+      <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+      <stop stop-color="#B4B8BF" stop-opacity="0.911806468" offset="91.1806468%"></stop>
+      <stop stop-color="#B4B8BF" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="100%" y1="49.6531448%" x2="0%" y2="49.6871908%" id="linearGradient-8">
+      <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+      <stop stop-color="#B4B8BF" stop-opacity="0.911806468" offset="91.1806468%"></stop>
+      <stop stop-color="#B4B8BF" offset="100%"></stop>
+    </linearGradient>
+    <ellipse id="path-9" cx="290.25" cy="196.65" rx="5.85" ry="1.35"></ellipse>
+  </defs>
+  <g id="404" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="background_default_gary_cloud" opacity="0.16">
+      <path d="M0,462 C86.7411024,426.666667 203.407769,409 350,409 C496.592231,409 613.258898,426.666667 700,462" id="routine-19" fill="url(#linearGradient-1)"></path>
+      <path d="M523,266 L523.000073,265.646756 C509.398102,263.489266 499,251.708936 499,237.5 C499,221.759885 511.759885,209 527.5,209 C530.067629,209 532.555953,209.339544 534.922521,209.976179 C540.328827,197.627728 552.656856,189 567,189 C583.23789,189 596.893104,200.057754 600.84626,215.053883 C601.392389,215.017787 601.944117,215 602.5,215 C616.583261,215 628,226.416739 628,240.5 C628,254.415939 616.852933,265.72834 603.000824,265.99518 L603,266 L523,266 Z" id="形状结合" fill="url(#linearGradient-2)" transform="translate(563.500000, 227.500000) scale(-1, 1) translate(-563.500000, -227.500000) "></path>
+      <path d="M100,293 L100.000061,291.840504 C88.4340741,288.398326 80,277.684105 80,265 C80,249.536027 92.536027,237 108,237 C110.439711,237 112.806545,237.312029 115.06277,237.898356 C116.164533,218.994203 132.056904,204 151.5,204 C170.641829,204 186.342118,218.533139 187.876933,237.022389 C188.249757,237.007411 188.624013,237 189,237 C204.463973,237 217,249.536027 217,265 C217,280.463973 204.463973,293 189,293 C188.665453,293 188.332276,292.994133 188.000566,292.982496 L188,293 L100,293 Z" id="形状结合backup" fill="url(#linearGradient-3)"></path>
+      <path d="M62,189 L62.000423,188.949671 C61.5044991,188.983048 61.0041862,189 60.5,189 C48.0735931,189 38,178.702549 38,166 C38,153.297451 48.0735931,143 60.5,143 C63.1907662,143 65.771214,143.482826 68.1629547,144.368347 C69.6982015,129.548754 82.0232817,118 97,118 C111.537571,118 123.576727,128.881419 125.675821,143.074305 C126.277367,143.025156 126.88581,143 127.5,143 C139.926407,143 150,153.297451 150,166 C150,178.53158 140.195752,188.722368 128.000461,188.994423 L128,189 L62,189 Z" id="形状结合" fill="url(#linearGradient-4)"></path>
+    </g>
+    <g id="group" transform="translate(411.042820, 289.642909) rotate(-345.000000) translate(-411.042820, -289.642909) translate(252.542820, 178.642909)" fill="url(#linearGradient-5)" opacity="0.26">
+      <polygon id="routine-21" points="107.720993 4.13198379 0.752280579 214.445612 316.752281 221.545805 210.936159 0.545805408"></polygon>
+    </g>
+    <ellipse id="ellipsoid" fill="url(#linearGradient-6)" opacity="0.16" cx="210" cy="454" rx="62" ry="7"></ellipse>
+    <ellipse id="ellipsoidbackup-7" fill="url(#linearGradient-7)" opacity="0.16" cx="510" cy="454" rx="65" ry="7"></ellipse>
+    <ellipse id="ellipsoidbackup-9" fill="url(#linearGradient-8)" opacity="0.16" cx="356.5" cy="443" rx="88.5" ry="7"></ellipse>
+    <g id="objects_grayelement_ufoobjects_grayelement_ufo" transform="translate(446.000000, 131.000000) rotate(12.000000) translate(-446.000000, -131.000000) translate(266.000000, -49.000000)">
+      <path d="M183.15,126.9 C221.174805,126.9 252,157.088227 252,194.327293 C252,202.922297 250.357897,211.141693 247.364176,218.700997 L118.935824,218.700997 C115.942103,211.141693 114.3,202.922297 114.3,194.327293 C114.3,157.088227 145.125195,126.9 183.15,126.9 Z" id="形状结合" fill="#E6E8ED" fill-rule="evenodd"></path>
+      <path d="M178.699775,235.8 C268.169905,235.8 342,228.023786 342,211.898113 C342,195.772441 269.470129,182.7 180,182.7 C90.5298705,182.7 18,195.772441 18,211.898113 C18,228.023786 89.2296457,235.8 178.699775,235.8 Z" id="ellipsoid" fill="#C9CDD4" fill-rule="evenodd"></path>
+      <ellipse id="ellipsoid" fill="#E6E8ED" fill-rule="evenodd" cx="183.15" cy="230.85" rx="49.05" ry="12.15"></ellipse>
+      <ellipse id="ellipsoid" fill="#E6E8ED" fill-rule="evenodd" cx="179.55" cy="190.35" rx="5.85" ry="1.35"></ellipse>
+      <ellipse id="ellipsoidbackup-2" fill="#E6E8ED" fill-rule="evenodd" transform="translate(121.950000, 192.150000) scale(-1, 1) rotate(2.000000) translate(-121.950000, -192.150000) " cx="121.95" cy="192.15" rx="5.85" ry="1.35"></ellipse>
+      <ellipse id="ellipsoidbackup-3" fill="#E6E8ED" fill-rule="evenodd" transform="translate(72.450000, 198.450000) scale(-1, 1) rotate(4.000000) translate(-72.450000, -198.450000) " cx="72.45" cy="198.45" rx="5.85" ry="1.35"></ellipse>
+      <ellipse id="ellipsoidbackup" fill="#E6E8ED" fill-rule="evenodd" transform="translate(238.050000, 191.250000) rotate(2.000000) translate(-238.050000, -191.250000) " cx="238.05" cy="191.25" rx="5.85" ry="1.35"></ellipse>
+      <mask id="mask-10" fill="white">
+        <use xlink:href="#path-9"></use>
+      </mask>
+      <use id="ellipsoidbackup-4" fill="#E6E8ED" fill-rule="evenodd" transform="translate(290.250000, 196.650000) rotate(4.000000) translate(-290.250000, -196.650000) " xlink:href="#path-9"></use>
+    </g>
+    <g id="objects_grayelement_404objects_grayelement_404" transform="translate(150.000000, 100.000000)">
+      <g id="group" transform="translate(0.000000, 226.000000)">
+        <rect id="rect" fill="#D7DAE0" x="67.0967742" y="30.1075269" width="22.3655914" height="98.0645161" rx="6.02150538"></rect>
+        <rect id="rectbackup-23" fill="#D7DAE0" x="346.666667" y="30.1075269" width="22.3655914" height="98.0645161" rx="6.02150538"></rect>
+        <g id="group-2" transform="translate(130.752688, 9.462366)">
+          <rect id="rect" fill="#D7DAE0" x="8.60215054" y="0" width="123.870968" height="102.365591"></rect>
+          <rect id="rect" fill="#E6E8ED" x="0" y="0" width="141.075269" height="25.8064516" rx="5.16129032"></rect>
+          <rect id="rectbackup-26" fill="#E6E8ED" x="0" y="50.7526882" width="141.075269" height="25.8064516" rx="5.16129032"></rect>
+          <rect id="rectbackup-27" fill="#E6E8ED" x="0" y="81.7204301" width="141.075269" height="25.8064516" rx="5.16129032"></rect>
+          <circle id="ellipsoid" fill="#D7DAE0" cx="125.591398" cy="12.9032258" r="4.30107527"></circle>
+          <circle id="ellipsoidbackup-3" fill="#D7DAE0" cx="125.591398" cy="63.655914" r="4.30107527"></circle>
+          <circle id="ellipsoidbackup-4" fill="#D7DAE0" cx="125.591398" cy="94.6236559" r="4.30107527"></circle>
+        </g>
+        <rect id="rect" fill="#DFE2E8" transform="translate(61.075269, 86.881720) rotate(-270.000000) translate(-61.075269, -86.881720) " x="49.8924731" y="28.3870968" width="22.3655914" height="116.989247" rx="6.02150538"></rect>
+        <rect id="rectbackup-24" fill="#DFE2E8" transform="translate(341.505376, 86.881720) rotate(-270.000000) translate(-341.505376, -86.881720) " x="330.322581" y="28.3870968" width="22.3655914" height="116.989247" rx="6.02150538"></rect>
+        <path d="M86.1011653,4.25784728 L93.8066688,11.9633509 C96.158213,14.314895 96.158213,18.1275013 93.8066688,20.4790454 L20.4790454,93.8066688 C18.1275013,96.158213 14.314895,96.158213 11.9633509,93.8066688 L4.25784728,86.1011653 C1.90630316,83.7496211 1.90630316,79.9370148 4.25784728,77.5854707 L77.5854707,4.25784728 C79.9370148,1.90630316 83.7496211,1.90630316 86.1011653,4.25784728 Z" id="rect" fill="#E6E8ED"></path>
+        <path d="M365.671058,4.25784728 L373.376561,11.9633509 C375.728105,14.314895 375.728105,18.1275013 373.376561,20.4790454 L300.048938,93.8066688 C297.697394,96.158213 293.884787,96.158213 291.533243,93.8066688 L283.82774,86.1011653 C281.476196,83.7496211 281.476196,79.9370148 283.82774,77.5854707 L357.155363,4.25784728 C359.506907,1.90630316 363.319514,1.90630316 365.671058,4.25784728 Z" id="rectbackup-25" fill="#E6E8ED"></path>
+        <circle id="ellipsoid" fill="#D7DAE0" cx="292.473118" cy="86.8817204" r="3.44086022"></circle>
+        <text id="oops!" opacity="0.600000024" font-family="AlibabaSans-Regular, Alibaba Sans" font-size="17.2043011" font-weight="normal" fill="#FFFFFF">
+          <tspan x="178.064516" y="52.688172">oops</tspan>
+          <tspan x="218.494624" y="52.688172" font-family="PingFangSC-Regular, PingFang SC">!</tspan>
+        </text>
+        <circle id="ellipsoid" fill="#D7DAE0" cx="12.0430108" cy="86.0215054" r="3.44086022"></circle>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 700 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>状态:60/异常态/空状态</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B4B8BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B4B8BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B4B8BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B4B8BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="49.8792597%" x2="0%" y2="49.8911111%" id="linearGradient-5">
+            <stop stop-color="#B4B8BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B4B8BF" stop-opacity="0.911806468" offset="91.1806468%"></stop>
+            <stop stop-color="#B4B8BF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="状态:60/异常态/空状态" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="@子组件/background/default/gary/hill">
+            <path d="M0,462 C86.7411024,426.666667 203.407769,409 350,409 C496.592231,409 613.258898,426.666667 700,462" id="路径-19" fill="url(#linearGradient-1)" opacity="0.16"></path>
+            <path d="M484,313 L552.857864,244.142136 C560.66835,236.33165 573.33165,236.33165 581.142136,244.142136 L650,313 L650,313" id="路径-22备份-2" fill="url(#linearGradient-2)" opacity="0.26"></path>
+            <path d="M98,210 L151.857864,156.142136 C159.66835,148.33165 172.33165,148.33165 180.142136,156.142136 L234,210 L234,210" id="路径-22" fill="url(#linearGradient-3)" opacity="0.26"></path>
+            <path d="M48,271 L83.8578644,235.142136 C91.6683502,227.33165 104.33165,227.33165 112.142136,235.142136 L148,271 L148,271" id="路径-22备份" fill="url(#linearGradient-4)" opacity="0.26"></path>
+        </g>
+        <ellipse id="椭圆形备份-8" fill="url(#linearGradient-5)" opacity="0.16" cx="349" cy="471" rx="150" ry="7"></ellipse>
+        <path d="M188.382956,438 C104.707371,434.308972 65.7674346,424.520219 71.5631461,408.633741 C80.2567133,384.804024 488.649058,382.798116 545.362561,343.338787 C602.076065,303.879458 389.965047,264.841008 389.965047,231.005758 C389.965047,208.448924 441.764218,184.113672 545.362561,158" id="路径-20" stroke="#E6E8ED" stroke-width="7" stroke-linecap="round" stroke-dasharray="14" transform="translate(313.000000, 298.000000) rotate(-4.000000) translate(-313.000000, -298.000000) "></path>
+        <g id="@子组件/objects/grayelement/mailobjects/grayelement/mail" transform="translate(150.000000, 100.000000)">
+            <rect id="矩形" fill="#C9CDD4" x="60" y="175" width="280" height="168" rx="16.2580645"></rect>
+            <rect id="矩形" fill="#E6E8ED" x="94" y="62" width="211" height="244" rx="18.0645161"></rect>
+            <rect id="矩形" fill="#F0F2F5" x="114" y="114" width="111" height="15" rx="7.5"></rect>
+            <rect id="矩形备份" fill="#F0F2F5" x="114" y="147" width="111" height="15" rx="7.5"></rect>
+            <rect id="矩形备份-2" fill="#F0F2F5" x="114" y="182" width="154" height="15" rx="7.5"></rect>
+            <path d="M60,197 L330.381468,317.966477 C336.233049,320.584427 340,326.396494 340,332.807006 L340,348.741935 C340,357.721017 332.721017,365 323.741935,365 L76.2580645,365 C67.2789834,365 60,357.721017 60,348.741935 L60,197 L60,197 Z" id="矩形" fill="#D7DAE0" transform="translate(200.000000, 281.000000) scale(-1, 1) translate(-200.000000, -281.000000) "></path>
+            <path d="M60,197 L330.381468,317.966477 C336.233049,320.584427 340,326.396494 340,332.807006 L340,348.741935 C340,357.721017 332.721017,365 323.741935,365 L76.2580645,365 C67.2789834,365 60,357.721017 60,348.741935 L60,197 L60,197 Z" id="矩形" fill="#DFE2E8"></path>
+        </g>
+        <g id="@子组件/objects/grayelement/paperairplaneobjects/grayelement/paperairplane" transform="translate(561.000000, 115.000000) scale(-1, 1) rotate(-29.000000) translate(-561.000000, -115.000000) translate(501.000000, 55.000000)">
+            <path d="M71.1270981,103.858448 L79.1384678,71.367319 L12.2805016,9.96189564 C12.0872454,9.78440027 11.7866918,9.79717696 11.6091965,9.99043317 C11.4634757,10.1490933 11.4427404,10.3859415 11.5586753,10.5675088 L71.1270981,103.858448 L71.1270981,103.858448 Z" id="路径-17" fill="#C9CDD4"></path>
+            <polygon id="路径-14" fill="#B4B8BF" points="57.3872341 88.8456913 72.9737459 79.7812539 71.1270981 103.858448"></polygon>
+            <path d="M11.4257067,8.72308999 C11.8258403,8.38352644 12.4254833,8.43262814 12.7650468,8.83276171 L12.7650468,8.83276171 L12.7962943,8.87035021 L112.290129,51.5228773 C113.051539,51.8492911 113.404174,52.7311466 113.07776,53.4925569 C112.940462,53.8128259 112.695944,54.0753023 112.386191,54.2349162 L79.4332468,71.2154207 C79.2561618,71.3066718 79.0409545,71.2777583 78.8942338,71.1430033 L18.8172943,15.9653502 L72.6498691,79.3996053 C72.6525404,79.4027531 72.6551705,79.4059354 72.6577586,79.4091515 L72.6653966,79.4189001 C72.8245221,79.6275425 72.7843808,79.9256773 72.5757384,80.0848028 L72.5757384,80.0848028 L32.1268111,110.934034 C31.8602784,111.137311 31.5489572,111.273831 31.218872,111.332182 C30.0767818,111.534076 28.9872673,110.771896 28.7853734,109.629806 L28.7853734,109.629806 L11.1048226,9.61300827 C11.0460295,9.28042223 11.1681927,8.94162293 11.4257067,8.72308999 Z" id="形状结合" fill="#D7DAE0"></path>
+        </g>
+    </g>
+</svg>
